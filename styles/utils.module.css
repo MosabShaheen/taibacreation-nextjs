@@ -23,6 +23,7 @@
   .headingMd {
     font-size: 1.2rem;
     line-height: 1.5;
+    text-align: center;
   }
   
   .borderCircle {
@@ -51,3 +52,20 @@
   .lightText {
     color: #666;
   }
+  .mosab {
+    display: flex;
+    /* flex-direction: row; */
+    /* flex-wrap: nowrap; */
+    /* align-content: center; */
+    align-items: center;
+}
+.nameauthor{
+  margin-left: 10px;
+}
+.datemy{
+  margin-top: -10px;
+  margin-bottom: 35px;
+}
+.blog{
+  font-size: 40px;
+}
